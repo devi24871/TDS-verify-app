@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+python-docx
+Commit new file
+Commit message (required)
+Add requirements.txt for Streamlit app
+● Commit directly to the main branch
